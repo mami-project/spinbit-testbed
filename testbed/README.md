@@ -20,12 +20,12 @@ Before proceeding, make sure the required dependencies are installed.  See the t
 
 ## Get the software
 ```
-$ git clone https://github.com/thomas-fossati/ietf-101-hackathon.git
+$ git clone https://github.com/mami-project/spinbit-testbed.git
 ```
 
 ## Enter the testbed
 ```
-$ cd ietf-101-hackathon/testbed
+$ cd spinbit-testbed/testbed
 ```
 
 ## Build the base Docker image
